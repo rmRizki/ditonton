@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "poster_path": "/path.jpg",
+            "popularity": 8.464776,
+            "id": 67386,
+            "backdrop_path": null,
+            "vote_average": 0,
+            "overview": "overview",
+            "first_air_date": "2016-08-29",
+            "origin_country": [
+                "FR"
+            ],
+            "genre_ids": [
+                16,
+                35
+            ],
+            "original_language": "fr",
+            "vote_count": 0,
+            "name": "Blaise",
+            "original_name": "Blaise"
+        }
+    ],
+    "total_results": 192,
+    "total_pages": 10
+}

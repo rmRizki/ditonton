@@ -1,0 +1,11 @@
+export 'tv/get_tv_detail.dart';
+export 'tv/get_tv_recommendations.dart';
+export 'tv/get_on_the_air_tv.dart';
+export 'tv/get_popular_tv.dart';
+export 'tv/get_top_rated_tv.dart';
+export 'tv/get_watchlist_tv.dart';
+export 'tv/get_watchlist_status_tv.dart';
+export 'tv/remove_watchlist_tv.dart';
+export 'tv/save_watchlist_tv.dart';
+export 'tv/get_tv_season_detail.dart';
+export 'tv/search_tv.dart';
