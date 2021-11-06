@@ -16,9 +16,8 @@ jobs:
         channel: 'stable'  
     - run: flutter pub get
     - run: cd module/core && flutter test
-    - run: cd ../movie && flutter test
-    - run: cd ../tv && flutter test
-    - run: cd ../..
+    - run: cd module/movie && flutter test
+    - run: cd module/tv && flutter test
     - run: flutter build apk
     - name: Create a Release APK
       uses: ncipollo/release-action@v1
